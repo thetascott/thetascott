@@ -1,6 +1,6 @@
 <h1>Hi, I'm Scott! 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Live Honeypot in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
