@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Live Honeypot in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Live Honeypot in Azure](https://github.com/thetascott/Azure-Honeypot/)
 
 <h2> 🤳 Connect with me:</h2>
 
