@@ -1,7 +1,8 @@
 <h1>Hi, I'm Scott! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [Live honeypot in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
