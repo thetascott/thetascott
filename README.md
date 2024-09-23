@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Implementing a SOC and Honeynet in Azure](https://github.com/thetascott/Azure-Honeypot/)
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/thetascott/Azure-Honeynet/)
 
 <h2> 🤳 Connect with me:</h2>
 
