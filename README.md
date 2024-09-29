@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Implementing a SOC and Honeynet in Azure](https://github.com/thetascott/Azure-Honeynet/)
+  - [Python keylogger that e-mails keystrokes and screenshots](https://github.com/thetascott/Python-keylogger/)
 
 <h2> 🤳 Connect with me:</h2>
 
