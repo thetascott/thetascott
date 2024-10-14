@@ -5,7 +5,7 @@
   - [Implementing a SOC and Honeynet in Azure](https://github.com/thetascott/Azure-Honeynet/)
   - [Theat model created using OWASP Threat Dragon](https://github.com/thetascott/threat-modeling)
   - [Python keylogger](https://github.com/thetascott/Python-keylogger/)
-  - [OWASP Juice Shop Ethical Hacking](https://github.com/thetascott/OWASP-Juice-Shop)
+  - [OWASP Juice Shop ethical hacking](https://github.com/thetascott/OWASP-Juice-Shop)
 
 <h2> 🤳 Connect with me:</h2>
 
