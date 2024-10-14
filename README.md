@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Implementing a SOC and Honeynet in Azure](https://github.com/thetascott/Azure-Honeynet/)
-  - [Theat Model using OWASP Threat Dragon](https://github.com/thetascott/threat-modeling)
+  - [Theat model using OWASP Threat Dragon](https://github.com/thetascott/threat-modeling)
   - [Python keylogger](https://github.com/thetascott/Python-keylogger/)
   - [OWASP Juice Shop Ethical Hacking](https://github.com/thetascott/OWASP-Juice-Shop)
 
