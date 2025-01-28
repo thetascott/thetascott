@@ -1,9 +1,11 @@
-<h1>Hi, I'm Scott! 
+<h1>Hi, I'm Scott!</h1> 
+
+<h2>👨‍💻 DevOps Projects:</h2>
+  - [VPC Terraform module](https://github.com/thetascott/Terraform)
+  - [GitHub Actions CI/CD Pipeline](https://github.com/thetascott/ci-cd-public/)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
   - [Implementing a SOC and Honeynet in Azure](https://github.com/thetascott/Azure-Honeynet/)
-  - [GitHub Actions CI/CD Pipeline](https://github.com/thetascott/ci-cd-public/)
   - [Threat model created using OWASP Threat Dragon](https://github.com/thetascott/threat-modeling)
   - [OWASP Juice Shop ethical hacking](https://github.com/thetascott/OWASP-Juice-Shop)
   - [Python keylogger](https://github.com/thetascott/Python-keylogger/)
