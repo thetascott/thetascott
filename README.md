@@ -1,10 +1,10 @@
 # Hi, I'm Scott! 
 
-## DevOps Projects
+<!-- ## DevOps Projects
   - [Options Pricing & Volatility Analysis with Kubernetes](https://github.com/thetascott/kubernetes-cluster)  
   - [AWS VPC Automation with Terraform](https://github.com/thetascott/Terraform)
   - [GitHub Actions CI/CD Pipeline](https://github.com/thetascott/ci-cd-public/)
-  - [Apache Error Monitoring](https://github.com/thetascott/python-apache/)
+  - [Apache Error Monitoring](https://github.com/thetascott/python-apache/) -->
 
 ## Cybersecurity Projects
   - [Implementing a SOC and Honeynet in Azure](https://github.com/thetascott/Azure-Honeynet/)
