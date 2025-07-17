@@ -1,5 +1,8 @@
 # Hi, I'm Scott! 
 
+## Data Engineering Projects
+- [Netflix Customer Churn Analysis (PySpark on Databricks)](https://github.com/thetascott/pyspark)
+
 <!-- ## DevOps Projects
   - [Options Pricing & Volatility Analysis with Kubernetes](https://github.com/thetascott/kubernetes-cluster)  
   - [AWS VPC Automation with Terraform](https://github.com/thetascott/Terraform)
