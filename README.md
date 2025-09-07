@@ -1,6 +1,7 @@
 # Hi, I'm Scott! 
 
 ## Data Engineering Projects
+- [SQL Data Warehouse](https://github.com/thetascott/sql-data-warehouse/)
 - [Netflix Customer Churn Analysis (PySpark on Databricks)](https://github.com/thetascott/pyspark)
 
 <!-- ## DevOps Projects
