@@ -2,6 +2,7 @@
 
 ## Data Engineering Projects
 - [SQL Data Warehouse](https://github.com/thetascott/sql-data-warehouse/)
+- [AWS Data Warehouse](https://github.com/thetascott/AWS_Data_Warehouse/)
 - [Netflix Customer Churn Analysis (PySpark on Databricks)](https://github.com/thetascott/pyspark)
 
 <!-- ## DevOps Projects
