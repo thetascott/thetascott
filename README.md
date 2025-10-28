@@ -2,6 +2,7 @@
 
 ## Data Engineering Projects
 - [AWS Data Warehouse](https://github.com/thetascott/AWS_Data_Warehouse/)
+- [Automated ELT with Snowflake, dbt, and Airflow](https://github.com/thetascott/Snowflake-dbt/)
 - [Netflix Customer Churn Analysis (PySpark on Databricks)](https://github.com/thetascott/pyspark)
 
 <!-- ## DevOps Projects
